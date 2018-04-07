@@ -1,1 +1,2 @@
 This is the second file added in Master
+Second line added in Master

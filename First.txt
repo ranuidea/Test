@@ -3,4 +3,3 @@ I am editing this file..
 Again editing this file in Branch1.
 Second edit in Master branch.
 Second edit in Branch1.
-Editing from Github.
